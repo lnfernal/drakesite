@@ -1,1 +1,1 @@
-Site for http://my.ue4/
+Site for http://example.minecraft.bot/
